@@ -1464,7 +1464,8 @@ form textarea {
 }}
 
 @media only screen and (max-width: 500px) {
-
+.namitha-title {
+    font-size: 30px !important;
 #item9{
     display: block;
 }
