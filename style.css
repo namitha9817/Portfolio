@@ -1627,6 +1627,26 @@ grid-template-areas:
 .contact-form {
     margin-bottom: 4%;
 }
+
+.modal-content {
+    margin: auto 5%;
+    width: auto;
+}
+.app-right-content-education .app-right-content-education-list-button button {
+    display: none;}
+
+.app-right-content-education-list {
+    padding: 20px 18px;
+}
+.app-right-content-education-list {
+    grid-template-columns: 1fr;
+}
+#me > div {
+    font-size: 13px;
+}
+.contact-content {
+    font-size: 13px;
+}
 }
 
 
@@ -1756,4 +1776,5 @@ form input{
 form button {
     font-size: 1em;
 }
+
 }
