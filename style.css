@@ -8,7 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-background: url(img/thumbnail.PNG);
+background: url("img/thumbnail.PNG");
 }
 
 li{cursor: pointer;}
