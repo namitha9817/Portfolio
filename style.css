@@ -942,6 +942,7 @@ padding: 15!important;
     padding-left: 3%;
     font-weight: 600;
     font-size: 57px;
+	line-height:55px;
     align-items: center;
     color: white;
 }
@@ -1796,3 +1797,4 @@ form button {
     padding-left: 20px;
 }
 }
+
