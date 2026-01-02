@@ -486,6 +486,7 @@ color: white;
 	align-items: center;
     align-self: center;
     display: flex;
+	margin-right: 30px;
 }
 
 .app-right-content-education-list-wrapper{
@@ -1786,3 +1787,12 @@ form button {
 
 }
 
+@media all and (max-width: 1050px) and (min-width: 961px) {
+      .app-right-header-nav li {
+    padding-right: 20px;
+    padding-left: 20px;}
+	.app-right-header-title {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+}
